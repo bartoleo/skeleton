@@ -1,4 +1,4 @@
---- skeleton
+-- skeleton class
 
 skeleton = SECS_class:new()
 
